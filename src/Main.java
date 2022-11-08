@@ -31,7 +31,6 @@ public class Main {
             System.out.println(entry.getKey());
             Integer s = (Integer) entry.getValue();
             sum = sum + s;
-
         }
         System.out.println(sum);
 
